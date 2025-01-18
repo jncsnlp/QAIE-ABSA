@@ -1,5 +1,3 @@
-# jncsnlp/QAIE-ABSA
-QAIE-ABSA
 # [QAIE: LLM-based Quantity Augmentation and Information Enhancement for few-shot Aspect-Based Sentiment Analysis](https://www.sciencedirect.com/science/article/pii/S0306457324002760?dgcid=author)
 
 ## Installation
