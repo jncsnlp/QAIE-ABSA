@@ -39,9 +39,6 @@ python3 main.py \
     --num_train_epochs 20
 ```
 
-## Acknowledgement
-
-We refer to the code of QAIE. Thanks for their great contributions!
 
 ## Cite Information
 
