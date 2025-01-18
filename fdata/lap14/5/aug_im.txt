@@ -1,0 +1,54 @@
+The text implies that it has many features and also has a good appearance.
+The text implies that the product is very functional and also visually appealing.
+The text implies that the device is very useful and also attractive.
+The text implies that the product is highly functional and aesthetically pleasing.
+The text implies that the device is ugly but is still useful.
+The text implies that the item is useful but not visually pleasing.
+The text implies that the device is good for entertainment.
+The text implies that the device has a screen and can be used for entertainment.
+The text implies that the device is a tablet and is able to play apps and watch DVDs.
+The text implies that the device is versatile.
+The text implies that everything else is okay.
+The only thing that can be updated is the clip.
+The text implies that the video is the only thing that needs to be changed and the other details are fine.
+The text implies that the only thing that can be changed about the situation is the clip.
+The text implies that you can update everything except for the video.
+Other than the clip, everything is okay and does not need to be updated.
+The text implies that the author is not satisfied with the service they received from the company.
+The text implies that the person is unhappy with the service they received.
+The text implies that the person is frustrated with the repair service.
+The text implies that the author is not happy with the service they received.
+The text implies that the person is unhappy with the service they received from the company.
+The text implies that the person doing the action might not have the best understanding of what they are doing.
+The text implies that the hard drive's guarantee will be voided if the person removes the sticker.
+The text implies that the hard drive warranty will be voided.
+The text implies that the guarantee on the hard drive will be voided if they do something.
+The text implies that the warranty on the hard drive is valid.
+The text implies that the hard drive may be voided if the hard drive is opened.
+The text implies that the product is great, but it has some flaws.
+The text implies that the product has some drawbacks, but overall it is great.
+The text implies that the item in question has a few drawbacks, but overall is still a good item.
+The text implies that the product is great but lacks some features.
+The text implies that the phone is great except for the trial software, brief battery time, and absence of a camera.
+The text implies that the thing in question is difficult to use.
+The text implies that the device is difficult to use, even though it has advanced features.
+It is difficult to use and has too many features.
+The text implies that the software is difficult to use.
+The text implies that the thing is difficult to use.
+the price is the best thing about this laptop
+The text implies that the laptop is affordable and has some of the newest features.
+The text implies that the laptop has a low cost and some new features.
+The cost and newer functionalities are the greatest things about this laptop.
+The text implies that the author is thinking about whether they should buy the keyboard.
+The text implies that the person is not sure if they would like the typewriter because it was highly rated.
+The text implies that the keyboard was liked , but not loved .
+The text implies that the typewriter was acceptable but not highly rated.
+The text implies that the screen brightness is not constant.
+The monitor is not manually controlled.
+The text implies that the user does not need to adjust the brightness of the screen manually.
+The monitor has a feature that automatically adjusts the brightness of the display based on the ambient lighting conditions.
+The text implies that the company uses Paralles to run virtual machines of different operating systems.
+The text implies that VirtualBox can run various versions of Windows.
+VirtualBox runs virtual machines of Windows XP Professional, Windows 7 Home Premium, Windows Server Enterprise 2003, and Windows Server 2008 Enterprise.
+The text implies that the author can run different operating systems on a single computer.
+We use VirtualBox to run multiple operating systems.

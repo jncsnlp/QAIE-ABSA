@@ -1,0 +1,115 @@
+The text implies that dessert will not be eaten.
+The text implies that the snack is skipped.
+The text implies that the person does not want dessert.
+The text implies that the snack should not be included.
+The text implies that the person is going to order a dessert.
+The text implies that the person wants to buy a snack.
+The music is loud, the system is not good, and it is expensive.
+The text implies that the place is expensive and has loud music.
+The text implies that the place has loud music and a expensive drink minimum.
+The text implies that the place is loud and has an expensive drink minimum.
+The text implies that the place is loud, expensive and has a poor sound system.
+The pizza was very large.
+The sandwich was large and of good quality.
+The sandwich was large and tasty.
+The text implies that all of the food in the restaurant is delicious.
+The text implies that the Chow Mein and the appetizers are all delicious.
+The text implies that all of the food on the menu is delicious.
+The text implies that the person gave a small tip.
+The text implies that the service was poor.
+The text implies that the person was not satisfied with the service.
+The text implies that the food is prepared quickly and without a lot of unnecessary fuss.
+The food is ready fast.
+The food is not given enough time to cook properly
+The text implies that the product is recommended by a lot of people.
+The text implies that the thing in question is very good and would be a good purchase.
+The text implies that the place is not recommended.
+The text implies that the restaurant was full and noisy.
+The hall was loud.
+The decor was nice but the place was too loud
+The text implies that the restaurant was busy and lively.
+The French decor was nice but the restaurant was too loud for a quiet conversation.
+The text implies that the store has the freshest products, the best variety of products, and the fastest delivery.
+The text implies that the business is the most modern, the one with the most options, and the quickest.
+The text implies that the place has the latest trends, the biggest selection of items, and the fastest delivery time.
+The text implies that the person did not complain about anything despite not liking it because they liked the atmosphere so much.
+I did not complain about the ambiance because it was positive.
+The text implies that the person did not complain about the atmosphere, because they adored it.
+The text implies that the person did not complain about the ambiance because they enjoyed it.
+The text implies that the atmosphere is bad.
+The text implies that the person did not complain about the ambiance because they disliked it so much.
+The text implies that the customer service is excellent.
+The text implies that the staff is very attentive and helpful.
+The text implies that the staff are friendly and helpful.
+The text implies that the staff are very attentive and helpful.
+The text implies that the service is not good.
+The text implies that the attentiveness of the staff is poor.
+The restaurant isn't trying to be anything it's not.
+The text implies that the restaurant is not gimmicky and that it is not a typical New York City restaurant.
+The text implies that the restaurant does not have a gimmick theme and is not like other NYC restaurants.
+The text implies that the place is unique and not like other NYC restaurants
+The text implies that the restaurant is typical in New York City for its theme and gimmicks.
+The text implies that the place does not have the same themed gimmick as other places in NYC.
+The text implies that the restaurant is a good place to eat.
+The restaurant has affordable prices, good food, and a good band.
+The text implies that the food is great, the service is fast, and the prices are affordable.
+The text implies that the restaurant has a good band, great food, fast service, and affordable prices.
+The text implies that the band is good, the cuisine is nice, the service is quick, and the prices are reasonable.
+The text implies that the place is not good for a family or general dining.
+The text implies that the establishment is not suitable for families or general dining.
+The text implies that the place is not family friendly and is not a good place to eat in general.
+The text implies that the establishment is not suitable for families or general dining.
+The restaurant is family friendly and has a diverse menu.
+The text implies that the establishment is not suitable for family or general dining.
+The text implies that the restaurant is a favorite of the author and will be visited again.
+The text implies that the place the speaker is talking about is special.
+The text implies that the place where you last ate was the subject of the conversation.
+The text implies that the place we're talking about is a place we like a lot.
+The text implies that the place is the best place to eat in New York.
+The text implies that the place is a great place to eat in New York.
+The text implies that the author has had three good experiences at the place.
+The text implies that the person has had many positive experiences at the place and enjoys going there.
+The text implies that the place is not enjoyable to go to.
+The text implies that the drink was enjoyable or of high quality.
+The beverage was satisfying.
+The text implies that the drink was good and enjoyable.
+The text implies that the beverage was enjoyable.
+The text implies that the drink was of poor quality.
+the beverage is tasty
+The text implies that the wine list at the restaurant is quite extensive and that it can easily increase the cost of a meal that is otherwise reasonably priced.
+The text implies that the drink menu has a lot of options but is expensive.
+The text implies that the prices of the alcoholic beverages are high.
+The drink menu is expensive and can increase the price of an otherwise affordable meal.
+The drink menu is diverse and expensive.
+The text implies that the martinis were perfectly made and tasted good.
+The text implies that the drinks were not too strong or too weak.
+The text implies that the martinis were of good quality and the author enjoyed them.
+The text implies that the drinks were of a good quality.
+The text implies that the martinis were not good.
+The text implies that the drinks were unpleasant or unsatisfactory.
+The text implies that this place is a great place to take out-of-towners and to watch the sunset.
+The text implies that the spot is beautiful and scenic.
+The text implies that the place is a good tourist destination and has good views.
+The text implies that the place is great for sunset watching and is a popular spot with tourists.
+The text implies that the place is not good for a tourist destination.
+This is a place for locals to relax.
+The text implies that the view from the window is good.
+The text implies that the table by the bay is the best table.
+The text implies that you should request a table by the window.
+The text implies that the bay view is the best view of the restaurant.
+The text implies that the table by the window has some negative quality.
+The text implies that a table by the bay is not desirable.
+The food is satisfactory.
+The text implies that the sight is very beautiful and the food is delicious.
+The text implies that the sight and food are both considered to be of high quality.
+The food is tasty and the view is beautiful.
+The text implies that the view is beautiful and the food is delicious.
+The text implies that the building is situated on a block that is impressive.
+The text implies that the restaurant is in a quiet, pleasant area.
+The text implies that the location is isolated and lacking in activity.
+The text implies that the wines are expensive.
+The text implies that the average price of a bottle of wine at the restaurant is around $70.
+The text implies that most bottles are very expensive
+The text implies that the location of the place is not convenient for everyone, but it is still worth visiting.
+The text implies that the place is a bit far away, but it is worth the trip.
+The text implies that the restaurant is a little far away, but worth the trip.
